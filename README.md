@@ -1,3 +1,8 @@
+<--AI SQL Generator App-->
+
+![Alt Text](https://i.imgur.com/PbMJMPC.png)
+
+
 To run,
 
 Step 1: Create an account with openAI and modify .env file with your API key.<br>

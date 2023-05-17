@@ -10,8 +10,7 @@ const app: Application = express() //allow us to work with express
 app.use(cors())
 app.use(express.json()) //helps us pass JSON from frontend to backend
 const API_KEY: string = process.env.API_KEY!
-console.log(API_KEY);
-//const API_KEY: string = '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'
+console.log(API_KEY)
 
 const configuration = new Configuration({
     apiKey: API_KEY
